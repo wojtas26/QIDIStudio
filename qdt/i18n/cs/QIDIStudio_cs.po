@@ -120,7 +120,7 @@ msgid "Supports Painting"
 msgstr "Malování podpěr"
 
 msgid "Please select single object."
-msgstr ""
+msgstr "Vyberte prosím jeden objekt"
 
 msgid "Mouse wheel"
 msgstr "Kolečko myši"
@@ -210,7 +210,8 @@ msgstr "Vygenerovat podpěry"
 msgid ""
 "Warning: All triangle areas are too small,The current function is not "
 "working."
-msgstr ""
+msgstr "Varování: Všechny plochy trojúhelníků jsou příliš malé, aktuální funkce není"
+"pracuje."
 
 msgid "Lay on face"
 msgstr "Plochou na podložku"
@@ -270,10 +271,10 @@ msgid "Shift + L"
 msgstr ""
 
 msgid "Toggle non-manifold edges"
-msgstr ""
+msgstr "Přepnout nespojené hrany"
 
 msgid "Rotate horizontally"
-msgstr ""
+msgstr "Otočit vodorovně"
 
 msgid "hit face"
 msgstr ""
@@ -288,13 +289,13 @@ msgid "Height Range"
 msgstr "Rozsah výš"
 
 msgid "Place input box of bottom near mouse"
-msgstr ""
+msgstr "Umístit vstupní pole dolů blízko myši"
 
 msgid "Vertical"
-msgstr ""
+msgstr "Vertikální"
 
 msgid "Horizontal"
-msgstr ""
+msgstr "Horizontální"
 
 msgid "View: keep horizontal"
 msgstr ""
@@ -310,7 +311,7 @@ msgid "Move"
 msgstr "Přesunout"
 
 msgid "Please select at least one object."
-msgstr ""
+msgstr "Vyberte alespoň jeden objekt"
 
 msgid "Rotate"
 msgstr "Otočit"
@@ -328,19 +329,19 @@ msgid "Error: Please close all toolbar menus first"
 msgstr "Chyba: Nejprve prosím zavřete všechny nabídky panelu nástrojů"
 
 msgid "Tool-Move"
-msgstr ""
+msgstr "Nástroj-Přesun"
 
 msgid "Tool-Scale"
-msgstr ""
+msgstr "Nástroj-měřítka"
 
 msgid "Tool-Rotate"
-msgstr ""
+msgstr "Nástroj-otáčení"
 
 msgid "Tool-Lay on Face"
 msgstr "Nástroj-Plochou na podložku"
 
 msgid "Bottom:"
-msgstr ""
+msgstr "Dole:"
 
 msgid "in"
 msgstr "v"
@@ -349,19 +350,19 @@ msgid "mm"
 msgstr "mm"
 
 msgid "Part selection"
-msgstr ""
+msgstr "Výběr součástí"
 
 msgid "Fixed step drag"
-msgstr ""
+msgstr "Pevný krok tažení"
 
 msgid "Single sided scaling"
-msgstr ""
+msgstr "Jednostranné škálování"
 
 msgid "Position"
 msgstr "Pozice"
 
 msgid "Rotate (relative)"
-msgstr ""
+msgstr "Otočit (relativně)"
 
 msgid "Scale ratios"
 msgstr "Poměry měřítka"
@@ -391,22 +392,22 @@ msgid "Reset Rotation"
 msgstr "Výchozí Natočení"
 
 msgid "Object coordinates"
-msgstr ""
+msgstr "Souřadnice objektu"
 
 msgid "World coordinates"
 msgstr "Světové souřadnice"
 
 msgid "Reset current rotation to real zeros."
-msgstr ""
+msgstr "Obnovit aktuální rotaci na skutečné nuly."
 
 msgid "°"
 msgstr "°"
 
 msgid "Reset current rotation to the value when open the rotation tool."
-msgstr ""
+msgstr "Resetovat aktuální rotaci na hodnotu při otevření nástroje pro rotaci."
 
 msgid "Part coordinates"
-msgstr ""
+msgstr "Souřadnice částí"
 
 msgid "%"
 msgstr "%"
@@ -430,7 +431,8 @@ msgstr ""
 msgid ""
 "Drag to move the cut plane\n"
 "Right-click a part to assign it to the other side"
-msgstr ""
+msgstr "Přetáhněte pro přesunutí řezné roviny\n"
+"Klikněte pravým tlačítkem na část, aby byla přiřazena na druhou stranu“
 
 msgid "Left click"
 msgstr "Levý klik"
@@ -460,13 +462,13 @@ msgid "Select all connectors"
 msgstr "Vybrat všechny spojky"
 
 msgid "Left drag"
-msgstr ""
+msgstr "Levý tah"
 
 msgid "Plot cut plane"
-msgstr ""
+msgstr "Zobrazit řeznou rovinu"
 
 msgid "right click"
-msgstr ""
+msgstr "kliknout pravým tlačítkem"
 
 msgid "Assign the part to the other side"
 msgstr ""
